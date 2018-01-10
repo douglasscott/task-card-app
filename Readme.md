@@ -1,7 +1,5 @@
-# Angular2 skeleton
-A project skeleton for Angular2 projects
+# Angular2 Task Card App
+A test Angular2 project
 
 Author: Doug Scott
-Date: 2018/01/09
-
-
+Date: 2018/01/10
